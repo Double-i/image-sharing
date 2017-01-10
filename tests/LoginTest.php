@@ -11,6 +11,7 @@ class LoginTest extends TestCase
      *
      * @return void
      */
+    use DatabaseMigrations;
     public function testGotoLogin(){
         $this->visit("/")
             ->click("Login")

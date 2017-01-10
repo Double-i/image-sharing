@@ -11,6 +11,7 @@ class RegisterTest extends TestCase
      *
      * @return void
      */
+    use DatabaseMigrations;
     public function testGoToResiter(){
         $this->visit("/")
             ->click("Register")
