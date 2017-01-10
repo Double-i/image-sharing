@@ -1,3 +1,4 @@
+![Travis](https://travis-ci.org/Double-i/image-sharing.svg?branch=TestingTravis)
 # Ze zuper image sharing
 
 ![logo](http://www.doggifpage.com/gifs/114.gif)
